@@ -29,8 +29,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e o desenvolvi
 <P></P>
 
 <div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sublime_text.png" alt="Sublime Text" title="Sublime Text"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
@@ -42,13 +42,40 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e o desenvolvi
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code>
+	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" title="mongoDB"/></code>
 </div>
 
 ## 🌟 Projetos em Destaque
 
+### [EBAC Veggie - Link](https://github.com/Ismaelblog/Projeto-Portf-lio)
+
+**Descrição:** Projeto de um site vegano, elaborado por mim, durante um evento de UX/UI Design, que foi realizado pela EBAC - Escola britânica de artes criativas e tecnologia. Criei um case durante a aula e fiz um protótipo de baixa e alta qualidade e com ele que elaborei esse site funcional.\
+\
+**TECNOLOGIAS & FERRAMENTAS USADAS NO CASE:** Ferramentas do google, Figma (Prototipo de alta qualidade), Papel & caneta (Prototipo de baixa qualidade), Ferramentas de UX/UI design (Como Personas, Matriz CSD & etc).\
+\
+**TECNOLOGIAS & FERRAMENTAS USADAS NO SITE:** Html, CSS, Javascript, Supabase & VS code.\
+\
+PROJETO AINDA EM DESENVOLVIMENTO...
+
+**<a href="https://ebac-veggie.vercel.app/" target="_blank">🔗Acesse o Deploy</a>**
+
+---
+
+### [Mundo Devocional](https://github.com/seu-usuario/task-manager)
+
+**Descrição:** Projeto criado no decorrer da Imersão Dev da Alura+Google Gemini 2024, Um projeto visando o mundo cristão, para ajudar jovens e adultos a se conectar mais com Deus através de devocionais.\
+\
+**TECNOLOGIAS & FERRAMENTAS USADAS NO SITE:** Html, CSS, Javascript & VS code.
+
+**<a href="https://mundo-devocional.vercel.app/" target="_blank">🔗Acesse o Deploy</a>**
+
+---
+
 <div align="center">
   <img src="https://media1.tenor.com/m/_D2I43cDZPYAAAAd/pera-algorand.gif" alt="Texto alternativo">
 </div>
+
+EM BREVE MAIS PROJETOS!!!
 
 ## 🎓 Educação
 
