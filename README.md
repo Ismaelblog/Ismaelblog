@@ -29,20 +29,26 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e o desenvolvi
 <P></P>
 
 <div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sublime_text.png" alt="Sublime Text" title="Sublime Text"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
+	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite"/></code>
+	
 </div>
 
 ## 🔍 Estou Aprendendo
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code>
 	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" title="mongoDB"/></code>
+	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" title="react"/></code>
+	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="nodeJS"/></code>
+	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="express" title="express"/></code>
+	
 </div>
 
 ## 🌟 Projetos em Destaque
@@ -61,13 +67,24 @@ PROJETO AINDA EM DESENVOLVIMENTO...
 
 ---
 
-### [Mundo Devocional](https://github.com/seu-usuario/task-manager)
+### [Mundo Devocional](https://github.com/Ismaelblog/Mundo-Devocional)
 
 **Descrição:** Projeto criado no decorrer da Imersão Dev da Alura+Google Gemini 2024, Um projeto visando o mundo cristão, para ajudar jovens e adultos a se conectar mais com Deus através de devocionais.\
 \
 **TECNOLOGIAS & FERRAMENTAS USADAS NO SITE:** Html, CSS, Javascript & VS code.
 
 **<a href="https://mundo-devocional.vercel.app/" target="_blank">🔗Acesse o Deploy</a>**
+
+---
+
+### [Projeto Spotify](https://github.com/Ismaelblog/Projeto-Spotify)
+
+**Descrição:** Uma aplicação Full Stack inspirada no Spotify, desenvolvida durante as aulas da Jornada Full Stack da Hashtag Programação. O projeto simula funcionalidades básicas da plataforma, com foco em aprendizado prático e aplicação de tecnologias modernas.\
+\
+**TECNOLOGIAS & FERRAMENTAS USADAS NO SITE:** Html, CSS, Javascript, React, NodeJS, ExpressJS, MongoDB, Vite, VS Code, Git&GitHub e Deploy no Render.
+
+**<a href="https://projeto-spotify-2n5o.onrender.com/" target="_blank">🔗Acesse o Deploy</a>**
+
 
 ---
 
@@ -86,6 +103,7 @@ EM BREVE MAIS PROJETOS!!!
   * JavaScript
   * Git/GitHub
   * Node.js & MongoDB
+  * React, ExpressJS & Vite
 
 ## 📫 Como me encontrar
 
