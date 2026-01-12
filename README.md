@@ -1,4 +1,7 @@
-![Meu GitHub](https://media.licdn.com/dms/image/v2/D4E16AQFvLVb_3mXiNw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726930606514?e=1750896000&v=beta&t=8NqNfCBr00CNW09xvNELOljwE4_KksNN_4xW26xp9_I)
+<div align="center">
+  <img src="https://img.icons8.com/?size=100&id=3R1xLIHPgzn5&format=png&color=000000" alt="Meu GitHub">
+</div>
+
 # Olá, Devs! 👋
 # Eu sou Ismael Fernandes
 
@@ -115,12 +118,7 @@ EM BREVE MAIS PROJETOS!!!
 <a href="https://t.me/dogbrave" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-<a href="https://github.com/ismaelblog">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelblog&layout=compact&langs_count=7&theme=holi"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ismaelblog&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-</div>
+---
 
 <p></p>
 <div align="center">
@@ -131,7 +129,7 @@ EM BREVE MAIS PROJETOS!!!
 <div align="center"> 
 
 ## 🌐VISITANTES🌐
-  <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/ismaelblog/count.svg" /></p>
+  <p align="center"><img alingn="center" src="https://visitor-badge.laobi.icu/badge?page_id=ismaelblog.README.md"></p>
 </div>
 
 ---
