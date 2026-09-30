@@ -7,15 +7,15 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e o desenvolvimento web é a minha grande paixão. Adoro o desafio de transformar conceitos em realidade digital, criando soluções que facilitam a vida das pessoas e impulsionam o sucesso das organizações. No meu tempo livre, estou trabalhando em um projeto pessoal super bacana para o meu portfólio, onde posso colocar em prática tudo o que estou aprendendo.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e o desenvolvimento web é a minha grande paixão. Adoro o desafio de transformar conceitos em realidade digital, criando soluções que facilitam a vida das pessoas e impulsionam o sucesso das organizações.
 
-- 🎓 Cursando 3º semestre de ADS
+- 🎓 Cursando 4º semestre de ADS (Análise e Desenvolvimento de Sistemas)
 - 🔭 Atualmente estou trabalhando em um Projeto Pessoal & da Faculdade
 - 🌱 Atualmente estou aprendendo sobre Lógica de programação e JAVA
 - 🧠 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
 - 💼 Em busca de estágio, primeiro emprego de desenvolvedor júnior e colaborações em projetos Open Source
 - 🎮 Gosto de games e ficar por dentro das novidades do mundo dos gamers.
-- 📖 Leitor iniciante (Atualmente 13 Livros Concluídos)
+- 📖 Leitor iniciante (Atualmente 18 Livros Concluídos)
 - 🙏 Cristão
 - 📍 Fortaleza, Ceará, Brasil
 
