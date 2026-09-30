@@ -17,7 +17,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e o desenvolvi
 - 🎮 Gosto de games e ficar por dentro das novidades do mundo dos gamers.
 - 📖 Leitor iniciante (Atualmente 18 Livros Concluídos)
 - 🙏 Cristão
-- 📍 Fortaleza, Ceará, Brasil
+- 📍 Caucaia, Ceará, Brasil
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -122,7 +122,7 @@ EM BREVE MAIS PROJETOS!!!
 
 <p></p>
 <div align="center">
-<img src="https://widgetbite.com/banner?title=Obrigado%20Pela%20Visita!&subtitle=VALEU%20DEVS!!!&backgroundpalette=twilight&fontpalette=water&titletransform=rotate&subtitletransform=scale" width=80% height=80%/>
+<img src="https://images.pexels.com/photos/6424584/pexels-photo-6424584.jpeg" width=50% height=80%/>
 </div>
 
 <P></P>
